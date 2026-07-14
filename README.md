@@ -1,6 +1,3 @@
-# generation-mysql
-Atividades de Banco de Dados Relacional desenvolvidas durante o Bootcamp Java Full Stack da Generation Brasil.
-
 # 🐬 MySQL - Bootcamp Generation Brasil
 
 Este repositório reúne as atividades práticas de **Banco de Dados Relacional** desenvolvidas durante o **Bootcamp Java Full Stack da Generation Brasil**.
@@ -73,6 +70,14 @@ Durante estes exercícios foram praticados conceitos como:
 - PRIMARY KEY
 - AUTO_INCREMENT
 
+---
+## 📁 Arquivos
+
+| Arquivo | Descrição |
+|----------|-----------|
+| atividade01_rh.sql | Sistema de Recursos Humanos |
+| atividade02_ecommerce.sql | Sistema de E-commerce |
+| atividade03_escola.sql | Sistema Escolar |
 ---
 
 ## 👨‍💻 Autor
