@@ -47,7 +47,7 @@ generation-mysql/
 ├── exe03_escola_do_futuro.sql
 ├── exe04_pizzaria_legal.sql
 ├── exe05_farmacia_bem_estar.sql
-└── ...
+└── atividade_pratica.sql
 ```
 
 ---
@@ -61,7 +61,7 @@ generation-mysql/
 | 03 | Escola do Futuro | ✅ |
 | 04 | Pizzaria Legal | ✅ |
 | 05 | Farmácia Bem Estar | ✅ |
-
+| 06 | Atividade Prática - MySQL | ✅ |
 ---
 
 # 📖 Conteúdo Praticado
@@ -112,6 +112,14 @@ generation-mysql/
 - Manipulação de Dados
 
 ---
+##  Atividade Prática
+
+- Criação de três bancos de dados
+- Relacionamento entre tabelas
+- PRIMARY KEY e FOREIGN KEY
+- INSERT, SELECT, UPDATE e DELETE
+- Filtros com WHERE
+- Consultas com INNER JOIN
 
 # 📌 Status do Projeto
 
