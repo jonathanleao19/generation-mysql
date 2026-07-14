@@ -1,12 +1,12 @@
-# 🐬 MySQL | Bootcamp Generation Brasil
+# 🐬 Banco de Dados Relacional | MySQL
 
-Este repositório reúne as atividades práticas de Banco de Dados Relacional desenvolvidas durante o Bootcamp Java Full Stack da Generation Brasil.
+Repositório desenvolvido durante o **Bootcamp Java Full Stack da Generation Brasil**.
 
-Os exercícios foram desenvolvidos utilizando MySQL e MySQL Workbench, com foco na criação, manipulação e consulta de bancos de dados relacionais, aplicando os principais comandos da linguagem SQL.
+Este projeto reúne as atividades práticas de Banco de Dados Relacional utilizando **MySQL**, com foco na modelagem de dados, manipulação de informações e consultas SQL, aplicando conceitos fundamentais utilizados no desenvolvimento de aplicações.
 
 ---
 
-## 🛠 Tecnologias
+# 🚀 Tecnologias Utilizadas
 
 - MySQL
 - MySQL Workbench
@@ -16,74 +16,119 @@ Os exercícios foram desenvolvidos utilizando MySQL e MySQL Workbench, com foco 
 
 ---
 
-## 📂 Estrutura do Repositório
+# 📚 Objetivos de Aprendizagem
 
-```
+Durante as atividades foram praticados conceitos como:
+
+- Criação de Banco de Dados
+- Modelagem de Tabelas
+- Relacionamento entre Tabelas
+- PRIMARY KEY
+- FOREIGN KEY
+- INSERT
+- SELECT
+- UPDATE
+- DELETE
+- WHERE
+- BETWEEN
+- LIKE
+- INNER JOIN
+
+---
+
+# 📂 Estrutura do Repositório
+
+```text
 generation-mysql/
 │
 ├── README.md
 ├── exe01_rh.sql
-├── exe02_market.sql
+├── exe02_ecommerce.sql
 ├── exe03_escola_do_futuro.sql
+├── exe04_pizzaria_legal.sql
+├── exe05_farmacia_bem_estar.sql
 └── ...
 ```
 
 ---
 
-## 📚 Exercícios
+# ✅ Exercícios Desenvolvidos
 
-### ✅ Exercício 01 - RH
+| Exercício | Tema | Status |
+|-----------|------|:------:|
+| 01 | RH | ✅ |
+| 02 | E-commerce | ✅ |
+| 03 | Escola do Futuro | ✅ |
+| 04 | Pizzaria Legal | ✅ |
+| 05 | Farmácia Bem Estar | ✅ |
+
+---
+
+# 📖 Conteúdo Praticado
+
+## Exercício 01 - RH
 
 - Criação de Banco de Dados
-- Criação de Tabela
-- Inserção de registros
-- Consultas com SELECT
-- Atualização com UPDATE
-
-### ✅ Exercício 02 - Market
-
-- Modelagem da tabela Produtos
-- Inserção de dados
-- Consultas utilizando WHERE
-- Atualização de registros
-
-### ✅ Exercício 03 - Escola do Futuro
-
-- Modelagem da tabela Estudantes
-- Inserção de dados
-- Consultas por nota
-- Atualização de registros
+- Criação de Tabelas
+- Inserção de Dados
+- Consultas SQL
+- Atualização de Registros
 
 ---
 
-## 🎯 Objetivos de Aprendizagem
+## Exercício 02 - E-commerce
 
-Durante estes exercícios foram praticados conceitos como:
+- Modelagem de Produtos
+- Consultas com WHERE
+- Atualização de Registros
 
-- CREATE DATABASE
-- CREATE TABLE
-- INSERT INTO
-- SELECT
-- WHERE
-- UPDATE
-- Tipos de dados
+---
+
+## Exercício 03 - Escola do Futuro
+
+- Cadastro de Alunos
+- Consultas por Nota
+- Atualização de Dados
+
+---
+
+## Exercício 04 - Pizzaria Legal
+
+- Relacionamento entre Tabelas
 - PRIMARY KEY
-- AUTO_INCREMENT
+- FOREIGN KEY
+- INNER JOIN
+- LIKE
+- BETWEEN
 
 ---
-## 📁 Arquivos
 
-| Arquivo | Descrição |
-|----------|-----------|
-| atividade01_rh.sql | Sistema de Recursos Humanos |
-| atividade02_ecommerce.sql | Sistema de E-commerce |
-| atividade03_escola.sql | Sistema Escolar |
+## Exercício 05 - Farmácia Bem Estar
+
+- Modelagem Relacional
+- Relacionamento entre Tabelas
+- INNER JOIN
+- Consultas SQL
+- Manipulação de Dados
+
 ---
 
-## 👨‍💻 Autor
+# 📌 Status do Projeto
+
+🚧 Em desenvolvimento
+
+Novas atividades serão adicionadas conforme o avanço do Bootcamp Java Full Stack da Generation Brasil.
+
+---
+
+# 👨‍💻 Autor
 
 **Jonathan Leão**
 
-## 📄 Licença
+Aluno do Bootcamp Java Full Stack da Generation Brasil.
 
-Projeto desenvolvido para fins de estudo durante o Bootcamp Java Full Stack da Generation Brasil.
+---
+
+# 📄 Licença
+
+Projeto desenvolvido exclusivamente para fins de estudo e aprendizado.
