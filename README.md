@@ -1,8 +1,8 @@
-# 🐬 MySQL - Bootcamp Generation Brasil
+# 🐬 MySQL | Bootcamp Generation Brasil
 
-Este repositório reúne as atividades práticas de **Banco de Dados Relacional** desenvolvidas durante o **Bootcamp Java Full Stack da Generation Brasil**.
+Este repositório reúne as atividades práticas de Banco de Dados Relacional desenvolvidas durante o Bootcamp Java Full Stack da Generation Brasil.
 
-O objetivo deste repositório é registrar minha evolução nos conceitos fundamentais de SQL e MySQL, utilizando o MySQL Workbench para criação, manipulação e consulta de bancos de dados relacionais.
+Os exercícios foram desenvolvidos utilizando MySQL e MySQL Workbench, com foco na criação, manipulação e consulta de bancos de dados relacionais, aplicando os principais comandos da linguagem SQL.
 
 ---
 
@@ -84,4 +84,6 @@ Durante estes exercícios foram praticados conceitos como:
 
 **Jonathan Leão**
 
-Bootcamp Java Full Stack - Generation Brasil
+## 📄 Licença
+
+Projeto desenvolvido para fins de estudo durante o Bootcamp Java Full Stack da Generation Brasil.
